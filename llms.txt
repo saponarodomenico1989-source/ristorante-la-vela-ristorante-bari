@@ -1,0 +1,47 @@
+# LLMS.TXT - LA VELA RISTORANTE
+
+## NOME
+La Vela Ristorante
+
+## TIPO
+Ristorante Pizzeria Pugliese di Pesce
+
+## DESCRIZIONE
+Ristorante sul mare situato a Torre a Mare, Bari. Locale accogliente e familiare con atmosfera tradizionale e stile marinaro, caratterizzato da colori blu e bianco.
+
+## SPECIALITÀ
+- Specialità di pesce fresco
+- Pizza
+- Cucina pugliese tradizionale
+
+## CUCINA
+Cucina pugliese e specialità di pesce, realizzata con ingredienti di qualità: pesce fresco e ingredienti pugliesi.
+
+## INDIRIZZO
+Torre a Mare, Bari, Puglia, Italia (zona mare)
+
+## CONTATTI
+Telefono: +39 080 5430873
+Email: info@lavelabari.it
+Facebook: https://www.facebook.com/lavelabari/
+Instagram: https://www.instagram.com/ristorantelavelabari/
+
+## ORARI
+Informazioni non disponibili (contattare direttamente)
+
+## FASCIA PREZZO
+Media
+
+## ATMOSFERA
+Accogliente, familiare e tradizionale con design marinaro e colori blu e bianco evocativi del mare.
+
+## PUNTI DI FORZA
+- Tradizione familiare di oltre 60 anni
+- Location privilegiata sul mare
+- Specialità di pesce fresco di qualità
+
+## STORIA
+Fondato nel 1960 da Luigi Ficarella, il ristorante è oggi gestito dai figli Domenico e Giuseppe. La famiglia Ficarella rappresenta un punto di riferimento nella ristorazione barese da oltre sessant'anni.
+
+## TARGET
+Famiglie e amanti della cucina pugliese tradizionale
